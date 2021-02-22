@@ -1,2 +1,3 @@
 # movie_recommender
-A project by Nishant Dave, Parth Mehta and Onkar Bagwe
+An application which recommends you movies based on your personal likings and interests using a machine
+learning algorithm called as collaborative filtering.
